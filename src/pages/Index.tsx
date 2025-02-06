@@ -31,7 +31,7 @@ const Index = () => {
         <button className="p-2 hover:bg-black/5 rounded-full transition-colors">
           <ArrowLeft className="w-6 h-6" />
         </button>
-        <h1 className="text-2xl font-semibold ml-2">Schedule Appointment</h1>
+        <h1 className="text-2xl font-semibold ml-2">Schedule AAA Appointment</h1>
       </div>
 
       <p className="text-gray-600 mb-6">Select date and time</p>
