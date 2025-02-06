@@ -49,7 +49,7 @@ const Index = () => {
             <p className="text-gray-600">Medicine</p>
           </div>
         </div>
-        <span className="bg-[#6FC691] text-white px-4 py-2 rounded-full text-sm">
+        <span className="bg-[#C3E7C0] text-[#004852] px-4 py-2 rounded-full text-sm">
           Available Today
         </span>
       </div>
